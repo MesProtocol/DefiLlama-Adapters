@@ -66,5 +66,5 @@ module.exports = chainExports(chainTvl, Array.from(chains));
 module.exports.methodology = `Tokens bridged via MesProtocol are counted as TVL`;
 module.exports.misrepresentedTokens = true;
 module.exports.hallmarks = [
-  [Math.floor(new Date("2023-04-11”) / 1e3), "First Launch"],
+  [Math.floor(new Date("2023-04-11") / 1e3), "First Launch"],
 ];
